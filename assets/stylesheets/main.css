@@ -54,7 +54,7 @@ table {
 */
 body {
 	color: #888;
-	font: 300 16px/22px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 300 16px/22px "Lato","Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 
@@ -195,6 +195,7 @@ p a {
 }
 .hero p {
 	font-size: 24px;
+	font-weight: 100;
 }
 
 /*
@@ -206,7 +207,10 @@ p a {
 	float: left;
 	border-top: 4px solid #648880;
 	font-size: 48px;
+	font-weight: 100;
 	line-height: 44px;
+	text-transform: uppercase;
+	letter-spacing: .5px;
 	padding: 40px 0 22px 0;
 }
 
