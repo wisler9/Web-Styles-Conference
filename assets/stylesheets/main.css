@@ -209,6 +209,25 @@ em {
 	 margin: -66px 0 22px 0;
 	 vertical-align: top;
  }
+
+
+ /*
+  ========================================
+  Schedule
+  ========================================
+*/
+
+table {
+	width: 100%;
+	margin-bottom: 44px;
+}
+
+table:last-child {
+	margin-bottom: 0;
+}
+
+
+
 /*
   ========================================
   Links
@@ -425,6 +444,9 @@ textarea {
 .register-group textarea {
 	height: 78px;
 }
+
+
+
 
 *,
 *:before,
